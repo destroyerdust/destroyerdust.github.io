@@ -1,6 +1,6 @@
 destroyerdust.github.io
 =======================
 
-This is the place for my "Coming Soon" and "Maintenance" pages that will be used periodically for maintenance purposes.
+This is the place where my website development will happen before it goes live at [my website](http://www.seanbarkley.com).
 
 That's pretty much it.
