@@ -1,0 +1,11 @@
+/* Side Bar Icon Size */
+i[class*='fa-'] {
+	font-size: 3.5em;
+}
+
+/* fix side bar */
+ul {
+	list-style-type: none;
+	padding: 0;
+	margin: 0;
+}
