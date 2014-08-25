@@ -7,7 +7,7 @@ html, body {
     padding-top: 20px;
 }
 .navbar-default .navbar-nav>li>a {
-    font-size: 1.5em;
+    font-size: 30px;
 }
 .navbar-default .navbar-nav>li>a:hover {
     color: #e7e7e7
