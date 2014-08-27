@@ -11,19 +11,20 @@ html, body {
     border-color: transparent;
     padding-top: 10px;
 }
-.navbar-default .navbar-nav>li>a {
-    font-size: 30px;
-}
+
 .navbar-default .navbar-nav>li>a:hover {
     color: #e7e7e7
 }
 .navbar-default .navbar-brand {
-    font-size: 30px;
     font-weight: bold;
 }
 .navbar-default .navbar-brand:hover {
     color: #e7e7e7
 }
+.navbar-default > div > div.navbar-collapse > ul > li > a > i {
+	padding-right: 5px;
+}
+
 /* Wrapper for page content to push down footer */
  #wrap {
     min-height: 100%;
