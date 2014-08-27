@@ -2,6 +2,10 @@ html, body {
     height: 100%;
     background-color: #F8F8F8;
 }
+.navbar {
+	margin-bottom: 0px;
+}
+
 .navbar-default {
     background-color: transparent;
     border-color: transparent;
